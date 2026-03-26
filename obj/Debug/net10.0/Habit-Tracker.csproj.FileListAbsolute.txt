@@ -7,7 +7,6 @@ C:\Users\GAMER\Desktop\C#\Personal-projects\Habit-Tracker\obj\Debug\net10.0\Habi
 C:\Users\GAMER\Desktop\C#\Personal-projects\Habit-Tracker\obj\Debug\net10.0\Habit-Tracker.AssemblyInfoInputs.cache
 C:\Users\GAMER\Desktop\C#\Personal-projects\Habit-Tracker\obj\Debug\net10.0\Habit-Tracker.AssemblyInfo.cs
 C:\Users\GAMER\Desktop\C#\Personal-projects\Habit-Tracker\obj\Debug\net10.0\Habit-Tracker.csproj.CoreCompileInputs.cache
-C:\Users\GAMER\Desktop\C#\Personal-projects\Habit-Tracker\obj\Debug\net10.0\Habit-Tracker.sourcelink.json
 C:\Users\GAMER\Desktop\C#\Personal-projects\Habit-Tracker\obj\Debug\net10.0\Habit-Tracker.dll
 C:\Users\GAMER\Desktop\C#\Personal-projects\Habit-Tracker\obj\Debug\net10.0\refint\Habit-Tracker.dll
 C:\Users\GAMER\Desktop\C#\Personal-projects\Habit-Tracker\obj\Debug\net10.0\Habit-Tracker.pdb
